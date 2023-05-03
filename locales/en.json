@@ -15,5 +15,13 @@
     "posts": "posts",
     "post": "post",
     "memb_only": "Members only",
-    "p_memb_only": "Paid-members only"
+    "p_memb_only": "Paid-members only",
+    "Page {page} of {pages}": "Page {page} of {pages}",
+    "newer": "Newer Posts",
+    "older": "Older Posts",
+    "share": "Share this",
+    "more_of_author": "Read <a href='{url}'>more posts</a> by this author",
+    "more_of_name": "<a href='{url}'>More posts</a> by {name}",
+    "more": "Read more",
+    "post_collab": "This post was a collaboration between"
 }

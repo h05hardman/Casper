@@ -12,8 +12,16 @@
     "enter_mail": "Gib deine Mail-Adresse ein",
     "coll_of": "Eine Sammlung aus",
     "zero": "null",
-    "posts": "Posts",
-    "post": "Post",
+    "posts": "Beiträge",
+    "post": "Beitrag",
     "memb_only": "Nur für Mitglieder",
-    "p_memb_only": "Nur für zahlende Mitglieder"
+    "p_memb_only": "Nur für zahlende Mitglieder",
+    "Page {page} of {pages}": "Seite {page} von {pages}",
+    "newer": "Neuere Beiträge",
+    "older": "Ältere Beiträge",
+    "share": "Teilen",
+    "more_of_author": "<a href='{url}'>Weitere Beiträge</a> dieses Autoren lesen",
+    "more_of_name": "<a href='{url}'>Weitere Beitrage</a> von {name} lesen",
+    "more": "Mehr lesen",
+    "post_collab": "DIeser Beitrag war eine Zusammenarbeit zwischen"
 }
